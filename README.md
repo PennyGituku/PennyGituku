@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PennyGituku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @PennyGituku a Data scientist/ Microbiologist/ Biotechnologist.
+- 👀 I’m interested in Data Science, especially Machine Learning.
+- 🌱 I’m currently learning Cloud computing.
+- 💞️ I’m looking to collaborate on Data science projects.
+- 📫 How to reach me pennygituku@gmail.com
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/peninah-gituku-64411713b/)
 
 <!---
 PennyGituku/PennyGituku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
